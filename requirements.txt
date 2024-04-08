@@ -1,0 +1,4 @@
+python-fragment
+https://github.com/KurimuzonAkuma/pyrogram/archive/dev.zip
+tgcrypto
+asyncio
